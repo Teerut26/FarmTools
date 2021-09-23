@@ -1,0 +1,3 @@
+module FarmTools {
+	requires spigot;
+}
